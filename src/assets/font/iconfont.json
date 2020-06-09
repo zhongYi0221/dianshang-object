@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "837782",
+      "name": "三角",
+      "font_class": "triangle-up",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "846626",
+      "name": "三角",
+      "font_class": "triangle-right",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "846629",
+      "name": "三角",
+      "font_class": "triangle-left",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "4297349",
+      "name": "登录密码",
+      "font_class": "denglumima",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "4803522",
+      "name": "登录",
+      "font_class": "xiaoren",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    }
+  ]
+}

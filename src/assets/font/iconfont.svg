@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="triangle-up" unicode="&#59004;" d="M27.273 142.387l485.222 484.233 484.233-485.222z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="triangle-right" unicode="&#59005;" d="M270.387 868.727l484.233-485.222-485.222-484.233z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="triangle-left" unicode="&#59006;" d="M753.613-100.727l-484.233 485.222 485.222 484.233z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="denglumima" unicode="&#58980;" d="M128 448a64 64 0 0 1-64-64v-384a64 64 0 0 1 64-64h768a64 64 0 0 1 64 64V384a64 64 0 0 1-64 64H128z m0 64h768a128 128 0 0 0 128-128v-384a128 128 0 0 0-128-128H128a128 128 0 0 0-128 128V384a128 128 0 0 0 128 128zM704 512V640a192 192 0 1 1-384 0v-128H256V640a256 256 0 1 0 512 0v-128h-64z m0 0V640a192 192 0 1 1-384 0v-128H256V640a256 256 0 1 0 512 0v-128h-64zM544 96a32 32 0 1 0-64 0V256a32 32 0 0 0 64 0v-160z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="xiaoren" unicode="&#58970;" d="M696.498 359.08299999999997c61.909 54.848 101.407 138.143 101.407 231.467 0 165.465-124.226 299.413-277.31 299.413-153.185 0-277.412-133.948-277.412-299.31 0-82.99 31.313-158.2 81.965-212.332 6.242-6.038 182.657-169.251 371.35-19.238m186.033-207.01l-150.73 137.324c-56.587-46.354-216.936-144.18-438.58 3.48-66.82-51.37-245.076-198.824-225.326-298.288 0 0 3.479-103.76 192.07-108.775 0 0 561.988-41.545 655.413 55.258-0.102 0 102.022 65.694-32.847 211"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
