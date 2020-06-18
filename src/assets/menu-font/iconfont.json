@@ -1,0 +1,51 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1287715",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "7106029",
+      "name": "数据统计",
+      "font_class": "shujutongji",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "9478258",
+      "name": "订单管理",
+      "font_class": "dingdanguanli-active",
+      "unicode": "e50c",
+      "unicode_decimal": 58636
+    },
+    {
+      "icon_id": "10562630",
+      "name": "G, google. logo",
+      "font_class": "Ggooglelogo",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "11121526",
+      "name": "功能角色权限管理",
+      "font_class": "gongnengjiaosequanxianguanli",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "13822833",
+      "name": "商品管理",
+      "font_class": "shangpinguanli",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    }
+  ]
+}

@@ -5,6 +5,8 @@ import LoginRouter from './Login/login'
 //方法2
 //import LoginRouter from '../components/Login/login'
 import home from './home/Home'
+// import welcom from "./Welcom/welcom";
+
 
 Vue.use(VueRouter);
 
@@ -21,7 +23,8 @@ const routes = [
     // {
     //   path:'/login',component:LoginRouter
     // }
-    home
+    home,
+    // welcom
 ];
 
 const router = new VueRouter({
@@ -42,5 +45,10 @@ router.beforeEach((to, from, next) => {
   next();
   
 });
+//解决重复router问题
+const originalPush = VueRouter.prototype.push;
+VueRouter.prototype.push = function push(location) {
+    return originalPush.call(this, location).catch(err => err)
+};
 
 export default router

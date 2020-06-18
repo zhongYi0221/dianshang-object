@@ -1,0 +1,100 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1287715",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "1564459",
+      "name": "报表",
+      "font_class": "report",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "2570193",
+      "name": "眼睛",
+      "font_class": "yanjing-tianchong",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "4096763",
+      "name": "报表",
+      "font_class": "baobiao",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "7106029",
+      "name": "数据统计",
+      "font_class": "shujutongji",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "9478258",
+      "name": "订单管理",
+      "font_class": "dingdanguanli-active",
+      "unicode": "e50c",
+      "unicode_decimal": 58636
+    },
+    {
+      "icon_id": "9698566",
+      "name": "用户",
+      "font_class": "yonghu1",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "10562630",
+      "name": "G, google. logo",
+      "font_class": "Ggooglelogo",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "11121526",
+      "name": "功能角色权限管理",
+      "font_class": "gongnengjiaosequanxianguanli",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "11251593",
+      "name": "默认头像",
+      "font_class": "morentouxiang",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "13822833",
+      "name": "商品管理",
+      "font_class": "shangpinguanli",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "14302317",
+      "name": "好友",
+      "font_class": "haoyou",
+      "unicode": "e543",
+      "unicode_decimal": 58691
+    },
+    {
+      "icon_id": "15225908",
+      "name": "单据",
+      "font_class": "danju",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    }
+  ]
+}
